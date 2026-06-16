@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso robado
+
+This log tracks the cryptographic history and versioning for the song **Beso robado** (beso-robado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:54:01.416777 | `v1` | `31e800369a154f7a9ee58f170a643410306fb65179909caeafae38fcb726f443` | `99ecdcbe1b74e30840f6181209b138024ebf939c96cbe63c19e303987b0ad865` | `2026-06-16_beso-robado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-robado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Beso robado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-robado/) |
+| **Get License** | [Commercial Licensing for Beso robado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-robado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `31e800369a154f7a9ee58f170a643410306fb65179909caeafae38fcb726f443` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
