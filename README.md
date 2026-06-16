@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-robado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Beso robado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-robado/) |
+| **Get License** | [Secure Licensing Rights for Beso robado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-robado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me robaste un beso y ahora voy a por ti,
+> Ese veneno dulce que me tiene crazy por ti,
+> Una noche en Barna, la disco a reventar,
+> Chula, no hay vuelta atrás, nos vamos a escapar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
